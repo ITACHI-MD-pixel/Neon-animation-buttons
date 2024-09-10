@@ -1,4 +1,4 @@
- # ＩＴＡＣＨＩ_ｘ_ＲＡＧＥ- V 3
+ # ＩＴＡＣＨＩ_ｘ_ＲＡＧＥ NEON ANIMATION BUTTONS
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <img src="https://telegra.ph/file/2c1f6c598eab67b0f8ffa.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{ITACH-MD-pixel}/count.svg" alt="ITACHI-MD-pixel :: Visitor's Count" /></p>
@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## ＩＴＡＣＨＩ_ｘ_ＲＡＧＥ Deployment Methods
+ ## ＩＴＡＣＨＩ_ｘ_ＲＡＧＥ NEON ANIMATION BUTTON 
 
 ### 1. FORK THIS REPO
 
